@@ -1,2 +1,3 @@
 # Machine_learning
 Making Fraud Detection in Credit Card Transactions Using Machine Learning
+In this project, we aim to develop a robust machine learning model for detecting fraudulent credit card transactions. Given the imbalance between fraudulent and genuine transactions, our approach includes preprocessing techniques such as feature scaling and handling class imbalance using SMOTE. We explore multiple classification algorithms like Logistic Regression and Random Forests, evaluating their performance using metrics such as precision, recall, and F1-score. By addressing these challenges, our goal is to build an efficient model that enhances fraud detection accuracy in real-world financial transactions.
